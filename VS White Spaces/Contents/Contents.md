@@ -15,7 +15,7 @@ There is a handy shortcut for this as well : ```Ctrl + E, S```
 ##Screen Shots
 
 ### Default View
-![Default View](https://1drv.ms/i/s!AtDIbtawTxaPeUpxL2Nw_XV4pgo)
+![Default View](https://github.com/ajalex-blog/blog.ajalex.com/blob/vs-white-spaces/VS%20White%20Spaces/Resources/Default%20Behavior.jpg?raw=true)
 
 ### Selection View
 ![Selection View](https://1drv.ms/i/s!AtDIbtawTxaPeqYuHoOD4kUT4h8)
