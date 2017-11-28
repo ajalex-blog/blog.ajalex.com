@@ -1,8 +1,8 @@
 Tip : Visual Studio : View White Spaces
 =================================
 
-It is very common that we leave a lot of __white spaces__ in the workspace. Few of them part of default intentations and few being unintented.
-Many a times they are noticed on selecting a bunch of code or while doing a backspace operation. There could be other ways of detecting it as well, but the core idea being, it is very difficult to detect it.
+It is very common that we leave a lot of _white spaces_ in the workspace while working on **Visual Studio**. Few of them, part of default indentations and few being unintended.
+Many a time, they are noticed while selecting a bunch of code or while doing a backspace operation. There could be other ways of detecting it as well, but the core idea being, it is very difficult to detect it.
 
 There is one easy way, in fact.
 
