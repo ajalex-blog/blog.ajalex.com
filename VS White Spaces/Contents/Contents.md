@@ -1,4 +1,4 @@
-Tip : Visual Studio White Spaces
+Tip : Visual Studio : View White Spaces
 =================================
 
 It is very common that we leave a lot of __white spaces__ in the workspace. Few of them part of default intentations and few being unintented.
@@ -18,12 +18,12 @@ There is a handy shortcut for this as well : ```Ctrl + E, S```
 ![Default View](https://github.com/ajalex-blog/blog.ajalex.com/blob/vs-white-spaces/VS%20White%20Spaces/Resources/Default%20Behavior.jpg?raw=true)
 
 ### Selection View
-![Selection View](https://1drv.ms/i/s!AtDIbtawTxaPeqYuHoOD4kUT4h8)
+![Selection View](https://github.com/ajalex-blog/blog.ajalex.com/blob/vs-white-spaces/VS%20White%20Spaces/Resources/SelectedView.jpg?raw=true)
 
 ### White Spaces View
-![White Spaces View](https://1drv.ms/i/s!AtDIbtawTxaPfMNWnGlqtIF8qyU)
+![White Spaces View](https://github.com/ajalex-blog/blog.ajalex.com/blob/vs-white-spaces/VS%20White%20Spaces/Resources/WithWhiteLineEnabled.jpg?raw=true)
 
 ### How to enable White Spaces
-![Enable White Spaces](https://1drv.ms/i/s!AtDIbtawTxaPe0c_J1FVrtfdtAk)
+![Enable White Spaces](https://github.com/ajalex-blog/blog.ajalex.com/blob/vs-white-spaces/VS%20White%20Spaces/Resources/Menu.jpg?raw=true)
 
 Hope this makes your life easier, especially from code style analyzers.
