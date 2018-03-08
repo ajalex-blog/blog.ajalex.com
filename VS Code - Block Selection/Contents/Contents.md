@@ -3,7 +3,7 @@ Tip : Visual Studio Code : Block Selection
 
 Did you know that we could select a block, using the keyboard in visual studio code!
 
-Normally, I would do it using the key combination ```Ctrl + Shift + <Left or Right Attow>```.
+Normally, I would do it using the key combination 'Ctrl + Shift + <Left or Right Attow>'.
 But, I recently learned that there is a key combination that we could use to select the current block or the parent block of the current block in Visual Studio Code.
 
 The key combination is ```Alt + Shift + Right Arrow Key```
